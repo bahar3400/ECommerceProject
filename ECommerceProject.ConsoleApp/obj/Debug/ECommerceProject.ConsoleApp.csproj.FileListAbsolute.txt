@@ -1,0 +1,12 @@
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.ConsoleApp\obj\Debug\ECommerceProject.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.ConsoleApp\obj\Debug\ECommerceProject.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.ConsoleApp\bin\Debug\ECommerceProject.ConsoleApp.exe.config
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.ConsoleApp\bin\Debug\ECommerceProject.ConsoleApp.exe
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.ConsoleApp\bin\Debug\ECommerceProject.ConsoleApp.pdb
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.ConsoleApp\bin\Debug\ECommerceProject.Core.dll
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.ConsoleApp\bin\Debug\ECommerceProject.Service.dll
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.ConsoleApp\bin\Debug\ECommerceProject.Core.pdb
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.ConsoleApp\bin\Debug\ECommerceProject.Service.pdb
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.ConsoleApp\obj\Debug\ECommerc.CD0ADC71.Up2Date
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.ConsoleApp\obj\Debug\ECommerceProject.ConsoleApp.exe
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.ConsoleApp\obj\Debug\ECommerceProject.ConsoleApp.pdb

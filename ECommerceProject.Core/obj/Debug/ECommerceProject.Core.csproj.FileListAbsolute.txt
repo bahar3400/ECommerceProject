@@ -1,0 +1,6 @@
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.Core\bin\Debug\ECommerceProject.Core.dll
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.Core\bin\Debug\ECommerceProject.Core.pdb
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.Core\obj\Debug\ECommerceProject.Core.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.Core\obj\Debug\ECommerceProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.Core\obj\Debug\ECommerceProject.Core.dll
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.Core\obj\Debug\ECommerceProject.Core.pdb

@@ -1,0 +1,9 @@
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.Service\bin\Debug\ECommerceProject.Service.dll
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.Service\bin\Debug\ECommerceProject.Service.pdb
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.Service\bin\Debug\ECommerceProject.Core.dll
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.Service\bin\Debug\ECommerceProject.Core.pdb
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.Service\obj\Debug\ECommerceProject.Service.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.Service\obj\Debug\ECommerceProject.Service.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.Service\obj\Debug\ECommerc.006C13A5.Up2Date
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.Service\obj\Debug\ECommerceProject.Service.dll
+C:\Users\Lenovo\OneDrive\OOP\ECommerceProject\ECommerceProject.Service\obj\Debug\ECommerceProject.Service.pdb
